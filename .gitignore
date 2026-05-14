@@ -1,0 +1,37 @@
+# ── Python ──────────────────────────────────
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# ── Jupyter ─────────────────────────────────
+.ipynb_checkpoints/
+
+# ── PyTorch / Model Artifacts ───────────────
+# Large embedding files tracked via Git LFS
+# *.pt  (uncomment if NOT using Git LFS)
+
+# Checkpoint dirs generated during training
+**/combined_checkpoints/
+**/t2_checkpoints/
+checkpoint-*/
+checkpoint_backup.zip
+
+# ── Environment ─────────────────────────────
+.env
+.venv/
+venv/
+env/
+
+# ── OS ──────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── IDE ─────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
