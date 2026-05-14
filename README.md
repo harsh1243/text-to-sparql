@@ -313,19 +313,7 @@ git clone https://github.com/<your-username>/KGQA-SPARQL.git
 
 ---
 
-## Citation
 
-If you use this work, please cite:
-
-```bibtex
-@misc{kgqa-sparql-2026,
-  title   = {KGQA-SPARQL: Text-to-SPARQL via Plan-based Decomposition},
-  author  = {Harsh},
-  year    = {2026},
-  note    = {Three-stage pipeline using flan-t5-xl with LoRA for
-             knowledge graph question answering over DBpedia and Wikidata}
-}
-```
 
 ---
 
