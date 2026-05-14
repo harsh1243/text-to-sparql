@@ -1,0 +1,6322 @@
+[
+  {
+    "uri": "http://dbpedia.org/ontology/BasketballLeague",
+    "label": "basketball league",
+    "comment": "a group of sports teams that compete against each other in Basketball",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/NaturalEvent",
+    "label": "natural event",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Province",
+    "label": "province",
+    "comment": "An administrative body governing a territorial unity on the intermediate level, between local and national level",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/TopLevelDomain",
+    "label": "top level domain",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/LunarCrater",
+    "label": "lunar crater",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/MotorsportSeason",
+    "label": "motorsport season",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/MilitaryPerson",
+    "label": "military person",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/TimePeriod",
+    "label": "time period",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/AutomobileEngine",
+    "label": "automobile engine",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Nebula",
+    "label": "Nebula",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Archeologist",
+    "label": "archeologist",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Enzyme",
+    "label": "enzyme",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/SongWriter",
+    "label": "songwriter",
+    "comment": "a person who writes songs.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Square",
+    "label": "square",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/University",
+    "label": "university",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/AnatomicalStructure",
+    "label": "anatomical structure",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/TelevisionShow",
+    "label": "television show",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/LaunchPad",
+    "label": "launch pad",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/CyclingLeague",
+    "label": "cycling league",
+    "comment": "a group of sports teams that compete against each other in Cycling",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Territory",
+    "label": "territory",
+    "comment": "A territory may refer to a country subdivision, a non-sovereign geographic region.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Tank",
+    "label": "Tank",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/CurlingLeague",
+    "label": "curling league",
+    "comment": "a group of sports teams that compete against each other in Curling",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/GatedCommunity",
+    "label": "Gated community",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/MusicFestival",
+    "label": "music festival",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Tax",
+    "label": "tax",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Racecourse",
+    "label": "racecourse",
+    "comment": "A racecourse is an alternate term for a horse racing track, found in countries such as the United Kingdom, Australia, Hong Kong, and the United Arab Emirates.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Dancer",
+    "label": "dancer",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/IceHockeyPlayer",
+    "label": "ice hockey player",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/PublicTransitSystem",
+    "label": "public transit system",
+    "comment": "A public transit system is a shared passenger transportation service which is available for use by the general public. Public transport modes include buses, trolleybuses, trams and trains, 'rapid transit' (metro/subways/undergrounds etc) and ferries. Intercity public transport is dominated by airlines, coaches, and intercity rail. (http://en.wikipedia.org/wiki/Public_transit).",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/BloodVessel",
+    "label": "blood vessel",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/FootballMatch",
+    "label": "football match",
+    "comment": "a competition between two football teams",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/MouseGeneLocation",
+    "label": "MouseGeneLocation",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/MilitaryConflict",
+    "label": "military conflict",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/StatedResolution",
+    "label": "Stated Resolution",
+    "comment": "A Resolution describes a formal statement adopted by a meeting or convention.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Tram",
+    "label": "streetcar",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/FilmFestival",
+    "label": "film festival",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/MonoclonalAntibody",
+    "label": "monoclonal antibody",
+    "comment": "Medikamente welche monoklonale Antik\u00f6rper sind",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/TheatreDirector",
+    "label": "Theatre director",
+    "comment": "A director in the theatre field who oversees and orchestrates the mounting of a theatre production.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Beverage",
+    "label": "beverage",
+    "comment": "A drink, or beverage, is a liquid which is specifically prepared for human consumption.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/SpaceShuttle",
+    "label": "space shuttle",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/EmployersOrganisation",
+    "label": "Employers' Organisation",
+    "comment": "An employers' organisation is an organisation of entrepreneurs who work together to coordinate their actions in the field of labour relations",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Prison",
+    "label": "prison",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Archaea",
+    "label": "archaea",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/HandballPlayer",
+    "label": "handball player",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Man",
+    "label": "man",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Covid19",
+    "label": "COVID-19 pandemic",
+    "comment": "Ongoing pandemic of coronavirus disease 2019",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Woman",
+    "label": "woman",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Religious",
+    "label": "religious",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Arachnid",
+    "label": "arachnid",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Department",
+    "label": "department",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/CardinalDirection",
+    "label": "Cardinal direction",
+    "comment": "One of the four main directions on a compass or any other system to determine a geographical position",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Chief",
+    "label": "Chief",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Painter",
+    "label": "painter",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/LineOfFashion",
+    "label": "line of fashion",
+    "comment": "A coherent type of clothing or dressing following a particular fashion",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Sailor",
+    "label": "Sailor",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Park",
+    "label": "park",
+    "comment": "A park is an area of open space provided for recreational use. http://en.wikipedia.org/wiki/Park",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/CyclingTeam",
+    "label": "cycling team",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/GrossDomesticProduct",
+    "label": "gross domestic product",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/WaterRide",
+    "label": "water ride",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/MilitaryVehicle",
+    "label": "military vehicle",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/ArtisticGenre",
+    "label": "artistic genre",
+    "comment": "Genres of art, e.g. Pointillist, Modernist",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/SportsSeason",
+    "label": "sports season",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Cricketer",
+    "label": "cricketer",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/FloweringPlant",
+    "label": "flowering plant",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Spreadsheet",
+    "label": "Spreadsheet",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/TelevisionEpisode",
+    "label": "television episode",
+    "comment": "A television episode is a part of serial television program.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Baronet",
+    "label": "baronet",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Canton",
+    "label": "canton",
+    "comment": "An administrative (France) or lawcourts (Netherlands) body governing a territorial unity on the municipal level or somewhat above",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Cinema",
+    "label": "cinema (movie theater)",
+    "comment": "A building for viewing films.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Gnetophytes",
+    "label": "Gnetophytes",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Jockey",
+    "label": "jockey (horse racer)",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/ScientificConcept",
+    "label": "Scientific concept",
+    "comment": "Scientific concepts, e.g. Theory of relativity, Quantum gravity",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/SportCompetitionResult",
+    "label": "results of a sport competition",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Tower",
+    "label": "tower",
+    "comment": "A Tower is a kind of structure (not necessarily a building) that is higher than the rest",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Protein",
+    "label": "protein",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/HumanGeneLocation",
+    "label": "HumanGeneLocation",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/SpeedwayTeam",
+    "label": "speedway team",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/ChristianPatriarch",
+    "label": "Christian Patriarch",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/GovernmentType",
+    "label": "Government Type",
+    "comment": "a form of government",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Town",
+    "label": "town",
+    "comment": "a settlement ranging from a few hundred to several thousand (occasionally hundreds of thousands). The precise meaning varies between countries and is not always a matter of legal definition. Usually, a town is thought of as larger than a village but smaller than a city, though there are exceptions to this rule.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/RomanEmperor",
+    "label": "roman emperor",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/ReligiousBuilding",
+    "label": "religious building",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Minister",
+    "label": "minister",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/MotorcycleRider",
+    "label": "motorcycle rider",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/ClericalAdministrativeRegion",
+    "label": "clerical administrative region",
+    "comment": "An administrative body governing some territorial unity, in this case a clerical administrative body",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/BusCompany",
+    "label": "bus company",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/PowerStation",
+    "label": "power station",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Engineer",
+    "label": "engineer",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Name",
+    "label": "name",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/SumoWrestler",
+    "label": "sumo wrestler",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/InternationalOrganisation",
+    "label": "international organisation",
+    "comment": "An international organisation is either a private or a public organisation seeking to accomplish goals across country borders",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/HighDiver",
+    "label": "high diver",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/FormulaOneRacer",
+    "label": "Formula One racer",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Conifer",
+    "label": "conifer",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/SpeedwayLeague",
+    "label": "speedway league",
+    "comment": "A group of sports teams that compete against each other in motorcycle speedway racing.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Instrumentalist",
+    "label": "instrumentalist",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Farmer",
+    "label": "farmer",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/HistoricalSettlement",
+    "label": "Historical settlement",
+    "comment": "A place which used to be a city or town or village.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/VideogamesLeague",
+    "label": "videogames league",
+    "comment": "A group of sports teams or person that compete against each other in videogames.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/CricketGround",
+    "label": "cricket ground",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/DTMRacer",
+    "label": "DTM racer",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/HistoricalDistrict",
+    "label": "Historical district",
+    "comment": "a place which used to be a district.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Company",
+    "label": "company",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Locomotive",
+    "label": "locomotive",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/MotocycleRacer",
+    "label": "motocycle racer",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Wrestler",
+    "label": "wrestler",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/GolfTournament",
+    "label": "golf tournament",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Treaty",
+    "label": "treaty",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/MotorcycleRacingLeague",
+    "label": "motorcycle racing league",
+    "comment": "a group of sports teams or bikerider that compete against each other in Motorcycle Racing",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Sales",
+    "label": "sales",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/AdultActor",
+    "label": "adult (pornographic) actor",
+    "comment": "A pornographic actor or actress or a porn star is a person who performs sex acts in film, normally characterised as a pornographic film.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/WikimediaTemplate",
+    "label": "Wikimedia template",
+    "comment": "DO NOT USE THIS CLASS! This is for internal use only!",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/GridironFootballPlayer",
+    "label": "gridiron football player",
+    "comment": "Gradiron football, also called North American football, is a family of soccer team games played primarily in the United States and Canada.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Engine",
+    "label": "engine",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/ChristianDoctrine",
+    "label": "Christian Doctrine",
+    "comment": "Tenets of the Christian faith, e.g. Trinity, Nicene Creed",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Area",
+    "label": "area",
+    "comment": "Area of something. Use \"value\" for the value, \"min\" & \"max\" for a range (if uncertain) and \"rank\" (integer) for the rank of that thing amongst its siblings (eg regions ordered by area)",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/NationalAnthem",
+    "label": "National anthem",
+    "comment": "Patriotic musical composition which is the offcial national song.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/SoccerLeague",
+    "label": "soccer league",
+    "comment": "A group of sports teams that compete against each other in soccer.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Battery",
+    "label": "battery",
+    "comment": "The battery (type) used as energy source in vehicles.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/AcademicConference",
+    "label": "academic conference",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Biathlete",
+    "label": "Biathlete",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Rebellion",
+    "label": "rebellion",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/TeamMember",
+    "label": "Team member",
+    "comment": "A member of an athletic team.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/GeneLocation",
+    "label": "GeneLocation",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/RoadJunction",
+    "label": "road junction",
+    "comment": "A road junction is a location where vehicular traffic going in different directions can proceed in a controlled manner designed to minimize accidents. In some cases, vehicles can change between different routes or directions of travel (http://en.wikipedia.org/wiki/Junction_%28road%29).",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Treadmill",
+    "label": "Treadmill",
+    "comment": "A mill driven by the tractive power of horses, donkeys or even people",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Brain",
+    "label": "brain",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/ProtohistoricalPeriod",
+    "label": "protohistorical period",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/WomensTennisAssociationTournament",
+    "label": "Women's Tennis Association tournament",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/BusinessPerson",
+    "label": "businessperson",
+    "comment": "The term entrepreneur mainly means someone who holds a senior position, such as an executive.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Lipid",
+    "label": "lipid",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/VolleyballCoach",
+    "label": "volleyball coach",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/TheologicalConcept",
+    "label": "Theological concept",
+    "comment": "Theological concepts, e.g. The apocalypse, Trinty, Stoicism",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Settlement",
+    "label": "settlement",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Capital",
+    "label": "Capital",
+    "comment": "A municipality enjoying primary status in a state, country, province, or other region as its seat of government.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Producer",
+    "label": "Producer",
+    "comment": "a person who manages movies or music recordings.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Software",
+    "label": "software",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Opera",
+    "label": "opera",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/LacrossePlayer",
+    "label": "lacrosse player",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/ControlledDesignationOfOriginWine",
+    "label": "Controlled designation of origin wine",
+    "comment": "A quality assurance label for wines",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Fort",
+    "label": "fort",
+    "comment": "Fortified place, most of the time to protect traffic routes",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/President",
+    "label": "president",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/RacingDriver",
+    "label": "racing driver",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/ArchitecturalStructure",
+    "label": "architectural structure",
+    "comment": "An architectural structure is a human-made, free-standing, immobile outdoor construction (http://en.wikipedia.org/wiki/Architectural_structure).",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/TennisPlayer",
+    "label": "tennis player",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/CoalPit",
+    "label": "coal pit",
+    "comment": "A coal pit is a place where charcoal is or was extracted",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/PoliticalConcept",
+    "label": "Political concept",
+    "comment": "Political concepts, e.g. Capitalism, Democracy",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Browser",
+    "label": "Browser",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/DigitalCamera",
+    "label": "digital camera",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Event",
+    "label": "event",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Band",
+    "label": "Band",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Regency",
+    "label": "regency",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Country",
+    "label": "country",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/BullFighter",
+    "label": "bullfighter",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Fencer",
+    "label": "fencer",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Youtuber",
+    "label": "Youtuber",
+    "comment": "a person who uploads, produces, or appears in videos on the video-sharing website YouTube..",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/HorseRace",
+    "label": "horse race",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Fish",
+    "label": "fish",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Magazine",
+    "label": "magazine",
+    "comment": "Magazines, periodicals, glossies or serials are publications, generally published on a regular schedule, containing a variety of articles. They are generally financed by advertising, by a purchase price, by pre-paid magazine subscriptions, or all three.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Galaxy",
+    "label": "galaxy",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Manhwa",
+    "label": "manhwa",
+    "comment": "Korean term for comics and print cartoons",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/OrganisationMember",
+    "label": "Organisation member",
+    "comment": "A member of an organisation.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/TelevisionSeason",
+    "label": "television season",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Case",
+    "label": "case",
+    "comment": "A case is the total of work done to prepare for an administrative or business decision. As a rule, a case is reflected in a set of documents.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Taxon",
+    "label": "taxonomic group",
+    "comment": "a category within a classification system for Species",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/LawFirm",
+    "label": "law firm",
+    "comment": "A law firm is a business entity formed by one or more lawyers to engage in the practice of law. The primary service provided by a law firm is to advise clients (individuals or corporations) about their legal rights and responsibilities, and to represent their clients in civil or criminal cases, business transactions, and other matters in which legal advice and other assistance are sought.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/MotorRace",
+    "label": "motor race",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/WaterwayTunnel",
+    "label": "waterway tunnel",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Ocean",
+    "label": "Ocean",
+    "comment": "A body of saline water that composes much of a planet's hydrosphere.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Infrastucture",
+    "label": "infrastructure",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Airport",
+    "label": "airport",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Boxer",
+    "label": "boxer",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Fern",
+    "label": "fern",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/NarutoCharacter",
+    "label": "naruto character",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/SoccerPlayer",
+    "label": "soccer player",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Fashion",
+    "label": "fashion",
+    "comment": "type or code of dressing, according to the standards of the time or individual design.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Island",
+    "label": "island",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Openswarm",
+    "label": "Open Swarm",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/NaturalPlace",
+    "label": "natural place",
+    "comment": "The natural place encompasses all places occurring naturally in universe.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Pandemic",
+    "label": "Pandemic",
+    "comment": "Global epidemic of infectious disease",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/GraveMonument",
+    "label": "grave stone or grave monument",
+    "comment": "A monument erected on a tomb, or a memorial stone.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/SoapCharacter",
+    "label": "soap character",
+    "comment": "Character of soap - radio or television serial frequently characterized by melodrama, ensemble casts, and sentimentality.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Agglomeration",
+    "label": "agglomeration",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/CollegeCoach",
+    "label": "college coach",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/HumanGene",
+    "label": "HumanGene",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Muscle",
+    "label": "muscle",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/InformationAppliance",
+    "label": "information appliance",
+    "comment": "An information device such as PDAs or Video game consoles, etc.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Psychologist",
+    "label": "psychologist",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Stream",
+    "label": "stream",
+    "comment": "a flowing body of water with a current, confined within a bed and stream banks",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/RecordOffice",
+    "label": "Record Office",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/SportsManager",
+    "label": "sports manager",
+    "comment": "According to the french label sub Soccer, trainership could be meant. However, here a Sportsmanager is interpreted as a member of the board of a sporting club.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Surfer",
+    "label": "surfer",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Hospital",
+    "label": "hospital",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/HotSpring",
+    "label": "hot spring",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Law",
+    "label": "law",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Chef",
+    "label": "chef",
+    "comment": "a person who cooks professionally for other people",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Philosopher",
+    "label": "philosopher",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/WorkSequence",
+    "label": "sequence of works",
+    "comment": "sequence of works previous/next",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/SystemOfLaw",
+    "label": "System of law",
+    "comment": "a system of legislation, either national or international",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/BiologicalDatabase",
+    "label": "Biological database",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Church",
+    "label": "church",
+    "comment": "This is used for church buildings, not any other meaning of church.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Tunnel",
+    "label": "tunnel",
+    "comment": "A tunnel may be for foot or vehicular road traffic, for rail traffic, or for a canal. Some tunnels are aqueducts to supply water for consumption or for hydroelectric stations or are sewers (http://en.wikipedia.org/wiki/Tunnel).",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Rower",
+    "label": "rower",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Ginkgo",
+    "label": "ginkgo",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Valley",
+    "label": "valley",
+    "comment": "a depression with predominant extent in one direction",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Coach",
+    "label": "coach",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Writer",
+    "label": "writer",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Automobile",
+    "label": "automobile",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Ideology",
+    "label": "ideology",
+    "comment": "for example: Progressivism_in_the_United_States, Classical_liberalism",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/SupremeCourtOfTheUnitedStatesCase",
+    "label": "Supreme Court of the United States case",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Standard",
+    "label": "standard",
+    "comment": "a common specification",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Swarm",
+    "label": "Swarm",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/TeamSport",
+    "label": "team sport",
+    "comment": "A team sport is commonly defined as a sport that is being played by competing teams",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Community",
+    "label": "Community",
+    "comment": "A community is a group of living organisms, people, plants or animals that live in a common environment.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/CanadianFootballTeam",
+    "label": "canadian football Team",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/RadioStation",
+    "label": "radio station",
+    "comment": "A radio station has one line up. For instance the radio station BBC Radio 1. Not to be confused with the broadcasting network BBC, which has many radio stations.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/SoccerManager",
+    "label": "soccer manager",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Poem",
+    "label": "poem",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Politician",
+    "label": "politician",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/CombinationDrug",
+    "label": "combination drug",
+    "comment": "Medikamente die mehrere Wirkstoffe enthalten",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Comedian",
+    "label": "comedian",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/ComicsCreator",
+    "label": "comics creator",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Monarch",
+    "label": "monarch",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Road",
+    "label": "road",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/TramStation",
+    "label": "tram station",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/PhilosophicalConcept",
+    "label": "Philosophical concept",
+    "comment": "Philosophical concepts, e.g. Existentialism, Cogito Ergo Sum",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/PlayboyPlaymate",
+    "label": "Playboy Playmate",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Device",
+    "label": "device",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Volcano",
+    "label": "volcano",
+    "comment": "A volcano is currently subclass of naturalplace, but it might also be considered a mountain.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Newspaper",
+    "label": "newspaper",
+    "comment": "A newspaper is a regularly scheduled publication containing news of current events, informative articles, diverse features and advertising. It usually is printed on relatively inexpensive, low-grade paper such as newsprint.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/AmericanFootballPlayer",
+    "label": "american football player",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/AcademicJournal",
+    "label": "academic journal",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/TableTennisPlayer",
+    "label": "table tennis player",
+    "comment": "Athlete who plays table tennis",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Artwork",
+    "label": "artwork",
+    "comment": "A work of art, artwork, art piece, or art object is an aesthetic item or artistic creation.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/VolleyballPlayer",
+    "label": "volleyball player",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Non-ProfitOrganisation",
+    "label": "non-profit organisation",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Sea",
+    "label": "sea",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Cleric",
+    "label": "cleric",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/BeautyQueen",
+    "label": "beauty queen",
+    "comment": "A beauty pageant titleholder",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/School",
+    "label": "school",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Region",
+    "label": "region",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/LightNovel",
+    "label": "light novel",
+    "comment": "A style of Japanese novel",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/SiteOfSpecialScientificInterest",
+    "label": "Site of Special Scientific Interest",
+    "comment": "A Site of Special Scientific Interest (SSSI) is a conservation designation denoting a protected area in the United Kingdom. SSSIs are the basic building block of site-based nature conservation legislation and most other legal nature/geological conservation designations in Great Britain are based upon them, including National Nature Reserves, Ramsar Sites, Special Protection Areas, and Special Areas of Conservation.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/SnookerPlayer",
+    "label": "snooker player",
+    "comment": "An athlete that plays snooker, which is a billard derivate",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/IceHockeyLeague",
+    "label": "ice hockey league",
+    "comment": "a group of sports teams that compete against each other in Ice Hockey.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/PersonFunction",
+    "label": "person function",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/MusicalArtist",
+    "label": "musical artist",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Entomologist",
+    "label": "entomologist",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/PoliticalParty",
+    "label": "political party",
+    "comment": "for example: Democratic_Party_(United_States)",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Presenter",
+    "label": "presenter",
+    "comment": "TV or radio show presenter",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Watermill",
+    "label": "Watermill",
+    "comment": "A watermill is a structure that uses a water wheel or turbine to drive a mechanical process such as flour, lumber or textile production, or metal shaping (rolling, grinding or wire drawing)",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Reign",
+    "label": "reign",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Database",
+    "label": "Database",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/ChartsPlacements",
+    "label": "Place in the Music Charts",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/EthnicGroup",
+    "label": "ethnic group",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Tenure",
+    "label": "tenure",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/InternationalFootballLeagueEvent",
+    "label": "international football league event",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/BaseballTeam",
+    "label": "baseball team",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Holiday",
+    "label": "holiday",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Insect",
+    "label": "insect",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Mineral",
+    "label": "mineral",
+    "comment": "A naturally occurring solid chemical substance.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/MusicalWork",
+    "label": "musical work",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/FileSystem",
+    "label": "File system",
+    "comment": "File classification system",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/SoccerClubSeason",
+    "label": "soccer club season",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/MeanOfTransportation",
+    "label": "mean of transportation",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Annotation",
+    "label": "Annotation",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/UnitOfWork",
+    "label": "unit of work",
+    "comment": "This class is meant to convey the notion of an amount work to be done. It is different from Activity in that it has a definite end and is being measured.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Mosque",
+    "label": "mosque",
+    "comment": "A mosque, sometimes spelt mosk, is a place of worship for followers of Islam.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/NationalCollegiateAthleticAssociationAthlete",
+    "label": "national collegiate athletic association athlete",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/MotorsportRacer",
+    "label": "motorsport racer",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Gene",
+    "label": "gene",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Referee",
+    "label": "referee",
+    "comment": "An official who watches a game or match closely to ensure that the rules are adhered to.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Reptile",
+    "label": "reptile",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Satellite",
+    "label": "Satellite",
+    "comment": "An astronomic object orbiting around a planet or star. Definition partly derived from http://www.ontotext.com/proton/protonext# (and thus WordNet 1.7).",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/VaccinationStatistics",
+    "label": "Vaccination Statistics",
+    "comment": "Statistics related to the COVID-19 vaccination world progress\u200e",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/CanadianFootballPlayer",
+    "label": "canadian football Player",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/GovernmentAgency",
+    "label": "government agency",
+    "comment": "A government agency is a permanent or semi-permanent organization in the machinery of government that is responsible for the oversight and administration of specific functions, such as an intelligence agency.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Flag",
+    "label": "flag",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/RallyDriver",
+    "label": "rally driver",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Bacteria",
+    "label": "bacteria",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/ArcherPlayer",
+    "label": "Archer Player",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Cardinal",
+    "label": "cardinal",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Mollusca",
+    "label": "mollusca",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Stadium",
+    "label": "stadium",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Wine",
+    "label": "wine",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/NationalSoccerClub",
+    "label": "national soccer club",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/GovernmentCabinet",
+    "label": "cabinet of ministers",
+    "comment": "A cabinet is a body of high-ranking state officials, typically consisting of the top leaders of the executive branch.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Museum",
+    "label": "museum",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/FigureSkater",
+    "label": "figure skater",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Horse",
+    "label": "horse",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Manga",
+    "label": "manga",
+    "comment": "Manga are comics created in Japan",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/College",
+    "label": "college",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/MilitaryService",
+    "label": "military service",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/NascarDriver",
+    "label": "nascar driver",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/PeriodicalLiterature",
+    "label": "periodical literature",
+    "comment": "Periodical literature (also called a periodical publication or simply a periodical) is a published work that appears in a new edition on a regular schedule. The most familiar examples are the newspaper, often published daily, or weekly; or the magazine, typically published weekly, monthly or as a quarterly. Other examples would be a newsletter, a literary journal or learned journal, or a yearbook.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Vein",
+    "label": "vein",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Plant",
+    "label": "plant",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Film",
+    "label": "movie",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/ConcentrationCamp",
+    "label": "Concentration camp",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/WaterPoloPlayer",
+    "label": "water polo Player",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/SkiArea",
+    "label": "ski area",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Guitar",
+    "label": "guitar",
+    "comment": "Describes the guitar",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Spy",
+    "label": "Spy",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Vicar",
+    "label": "vicar",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/NordicCombined",
+    "label": "Nordic Combined",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Swimmer",
+    "label": "swimmer",
+    "comment": "a trained athlete who participates in swimming meets",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/PrimeMinister",
+    "label": "prime minister",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Athlete",
+    "label": "athlete",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Colour",
+    "label": "colour",
+    "comment": "Color or colour is the visual perceptual property corresponding in humans to the categories called red, yellow, blue and others. Color derives from the spectrum of light (distribution of light energy versus wavelength) interacting in the eye with the spectral sensitivities of the light receptors.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Escalator",
+    "label": "escalator",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Factory",
+    "label": "factory",
+    "comment": "A factory (previously manufactory) or manufacturing plant is an industrial site, usually consisting of buildings and machinery, or more commonly a complex having several buildings, where workers manufacture goods or operate machines processing one product into another.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/ConveyorSystem",
+    "label": "conveyor system",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/WrittenWork",
+    "label": "written work",
+    "comment": "Written work is any text written to read it (e.g.: books, newspaper, articles)",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/SnookerChamp",
+    "label": "snooker world champion",
+    "comment": "An athlete that plays snooker and won the world championship at least once",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/LatterDaySaint",
+    "label": "Latter Day Saint",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Ambassador",
+    "label": "ambassador",
+    "comment": "An ambassador is the highest ranking diplomat that represents a nation and is usually accredited to a foreign sovereign or government, or to an international organization.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Parliament",
+    "label": "parliament",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/MovingWalkway",
+    "label": "travellator",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/SnookerWorldRanking",
+    "label": "snooker world ranking",
+    "comment": "The official world ranking in snooker for a certain year/season",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Venue",
+    "label": "venue",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/RadioProgram",
+    "label": "\u0631\u06cc\u0688\u06cc\u0648 \u067e\u0631\u0648\u06af\u0631\u0627\u0645",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Royalty",
+    "label": "royalty",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Biologist",
+    "label": "biologist",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Desert",
+    "label": "Desert",
+    "comment": "Barren land where there is less rain.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/BasketballTeam",
+    "label": "basketball team",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/ScreenWriter",
+    "label": "screenwriter",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Lawyer",
+    "label": "Lawyer",
+    "comment": "a person who is practicing law.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Planet",
+    "label": "planet",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/prov:Entity",
+    "label": "Entity",
+    "comment": "http://www.w3.org/ns/prov#Entity",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/SpeedSkater",
+    "label": "speed skater",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Deputy",
+    "label": "deputy",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/MovieDirector",
+    "label": "Movie director",
+    "comment": "a person who oversees making of film.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Family",
+    "label": "family",
+    "comment": "A group of people related by common descent, a lineage.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/YearInSpaceflight",
+    "label": "year in spaceflight",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Shrine",
+    "label": "shrine",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Vodka",
+    "label": "vodka",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Population",
+    "label": "population",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Village",
+    "label": "village",
+    "comment": "a clustered human settlement or community, usually smaller a town",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Theatre",
+    "label": "theatre",
+    "comment": "A theater or theatre (also a playhouse) is a structure where theatrical works or plays are performed or other performances such as musical concerts may be produced.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Drama",
+    "label": "drama",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/WinterSportPlayer",
+    "label": "winter sport Player",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/ProtectedArea",
+    "label": "protected area",
+    "comment": "This class should be used for protected nature. For enclosed neighbourhoods there is now class GatedCommunity",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/PenaltyShootOut",
+    "label": "penalty shoot-out",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/RocketEngine",
+    "label": "rocket engine",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Canal",
+    "label": "canal",
+    "comment": "a man-made channel for water",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Rebbe",
+    "label": "Rebbe",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Employer",
+    "label": "Employer",
+    "comment": "a person, business, firm, etc, that employs workers.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/MusicGenre",
+    "label": "music genre",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/AmusementParkAttraction",
+    "label": "amusement park attraction",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Year",
+    "label": "year",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Priest",
+    "label": "priest",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Congressman",
+    "label": "congressman",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/MusicComposer",
+    "label": "music composer",
+    "comment": "a person who creates music.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Sport",
+    "label": "sport",
+    "comment": "A sport is commonly defined as an organized, competitive, and skillful physical activity.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/BackScene",
+    "label": "back scene",
+    "comment": "Composer, producer, and backstage people.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Nerve",
+    "label": "nerve",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/ComicStrip",
+    "label": "comic strip",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/SambaSchool",
+    "label": "samba school",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Hotel",
+    "label": "hotel",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/FashionDesigner",
+    "label": "fashion designer",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Library",
+    "label": "library",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Organ",
+    "label": "organ",
+    "comment": "All types and sizes of organs",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Profession",
+    "label": "profession",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Model",
+    "label": "model",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Ligament",
+    "label": "ligament",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Cipher",
+    "label": "Cipher",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/BobsleighAthlete",
+    "label": "BobsleighAthlete",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Activity",
+    "label": "activity",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/CityDistrict",
+    "label": "city district",
+    "comment": "District, borough, area or neighbourhood in a city or town",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Winery",
+    "label": "winery",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/NationalFootballLeagueEvent",
+    "label": "national football league event",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/RecordLabel",
+    "label": "record label",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/MetroStation",
+    "label": "subway station",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/VoiceActor",
+    "label": "voice actor",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Olympics",
+    "label": "olympics",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Attack",
+    "label": "attack",
+    "comment": "An Attack is not necessarily part of a Military Conflict",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Cat",
+    "label": "cat",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/CanadianFootballLeague",
+    "label": "liga de f\u00fatbol canadiense",
+    "comment": "A group of sports teams that compete against each other in canadian football league.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/PrehistoricalPeriod",
+    "label": "prehistorical period",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Brewery",
+    "label": "brewery",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Food",
+    "label": "Food",
+    "comment": "Food is any eatable or drinkable substance that is normally consumed by humans.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Song",
+    "label": "song",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/MathematicalConcept",
+    "label": "Mathematical concept",
+    "comment": "Mathematical concepts, e.g. Fibonacci numbers, Imaginary numbers, Symmetry",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/SportsClub",
+    "label": "sports club",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Play",
+    "label": "play",
+    "comment": "A play is a form of literature written by a playwright, usually consisting of scripted dialogue between characters, intended for theatrical performance rather than just reading.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/CapitalOfRegion",
+    "label": "Capital of region",
+    "comment": "seat of a first order administration division.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Album",
+    "label": "album",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/ComedyGroup",
+    "label": "Comedy Group",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/AthleticsPlayer",
+    "label": "athletics player",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/File",
+    "label": "file",
+    "comment": "A document with a filename",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Meeting",
+    "label": "meeting",
+    "comment": "A regular or irregular meeting of people as an event to keep record of",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Sculpture",
+    "label": "Sculpture",
+    "comment": "Sculpture is three-dimensional artwork created by shaping or combining hard materials, typically stone such as marble, metal, glass, or wood, or plastic materials such as clay, textiles, polymers and softer metals.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/NuclearPowerStation",
+    "label": "Nuclear Power plant",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/SubMunicipality",
+    "label": "borough",
+    "comment": "An administrative body governing a territorial unity on the lowest level, administering part of a municipality",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Deanery",
+    "label": "deanery",
+    "comment": "The intermediate level of a clerical administrative body between parish and diocese",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/prov:Revision",
+    "label": "Revision",
+    "comment": "http://www.w3.org/ns/prov#Revision",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Airline",
+    "label": "airline",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/VolleyballLeague",
+    "label": "volleyball league",
+    "comment": "A group of sports teams that compete against each other in volleyball.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Media",
+    "label": "media",
+    "comment": "storage and transmission channels or tools used to store and deliver information or data",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Cape",
+    "label": "cape",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/GrandPrix",
+    "label": "Grand Prix",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/MountainPass",
+    "label": "mountain pass",
+    "comment": "a path that allows the crossing of a mountain chain. It is usually a saddle point in between two areas of higher elevation",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Work",
+    "label": "work",
+    "comment": "Item on which time has been spent for its realisation. Actor can be a human on not (machine, insects, nature...)",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Glacier",
+    "label": "glacier",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Rocket",
+    "label": "rocket",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/SingleList",
+    "label": "single list",
+    "comment": "A list of singles",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Blazon",
+    "label": "Blazon",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Aristocrat",
+    "label": "aristocrat",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Bird",
+    "label": "bird",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/SocietalEvent",
+    "label": "societal event",
+    "comment": "an event that is clearly different from strictly personal events",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/DBpedian",
+    "label": "DBpedian",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Outbreak",
+    "label": "Outbreak",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Vaccine",
+    "label": "vaccine",
+    "comment": "Drugs that are a vaccine\u200e",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/GolfPlayer",
+    "label": "golf player",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/BowlingLeague",
+    "label": "bowling league",
+    "comment": "a group of sports teams or players that compete against each other in Bowling",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Saint",
+    "label": "saint",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/HistoricalPeriod",
+    "label": "historical period",
+    "comment": "A historical Period should be linked to a Place by way of the property dct:spatial (already defined)",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/SquashPlayer",
+    "label": "squash player",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/PokerPlayer",
+    "label": "poker player",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Altitude",
+    "label": "altitude",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/TrainCarriage",
+    "label": "train carriage",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Article",
+    "label": "article",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Anime",
+    "label": "Anime",
+    "comment": "A style of animation originating in Japan",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Book",
+    "label": "book",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Language",
+    "label": "language",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Restaurant",
+    "label": "restaurant",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/GeologicalPeriod",
+    "label": "geological period",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/OldTerritory",
+    "label": "old territory",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/CollectionOfValuables",
+    "label": "collection of valuables",
+    "comment": "Collection of valuables is a collection considered to be a work in itself)",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Diocese",
+    "label": "diocese",
+    "comment": "District or see under the supervision of a bishop.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Game",
+    "label": "game",
+    "comment": "a structured activity, usually undertaken for enjoyment and sometimes used as an educational tool",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Legislature",
+    "label": "legislature",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/MovieGenre",
+    "label": "movie genre",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Actor",
+    "label": "actor",
+    "comment": "An actor or actress is a person who acts in a dramatic production and who works in film, television, theatre, or radio in that capacity.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Egyptologist",
+    "label": "egyptologist",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Amphibian",
+    "label": "amphibian",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/GolfLeague",
+    "label": "golf league",
+    "comment": "Golfplayer that compete against each other in Golf",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Pyramid",
+    "label": "Pyramid",
+    "comment": "a structure whose shape is roughly that of a pyramid in the geometric sense.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/CareerStation",
+    "label": "career station",
+    "comment": "this class marks a career step in the life of a person, e.g. a soccer player, holding information on the time span, matches and goals he or she achieved at a certain club",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Skyscraper",
+    "label": "skyscraper",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Group",
+    "label": "group",
+    "comment": "An (informal) group of people.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/ClericalOrder",
+    "label": "clerical order",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/WindMotor",
+    "label": "Wind motor",
+    "comment": "A wind-driven turbine that adapts itself to wind direction and to wind-force. Is considered to be a class in its own, despite the wind as common factor with Windmill.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/LifeCycleEvent",
+    "label": "life cycle event",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Pilot",
+    "label": "Pilot",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Drug",
+    "label": "drug",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Tournament",
+    "label": "tournament",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Train",
+    "label": "train",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Reference",
+    "label": "Reference",
+    "comment": "Reference to a work (book, movie, website)  providing info about the subject",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Windmill",
+    "label": "Windmill",
+    "comment": "A windmill is a machine that converts the energy of wind into rotational energy by means of vanes called sails",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/SportsLeague",
+    "label": "sports league",
+    "comment": "A group of sports teams or individual athletes that compete against each other in a specific sport.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/BoardGame",
+    "label": "board game",
+    "comment": "come from http://en.wikipedia.org/wiki/Category:Board_games",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/BadmintonPlayer",
+    "label": "badminton player",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Currency",
+    "label": "currency",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/ProgrammingLanguage",
+    "label": "programming language",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/ChessPlayer",
+    "label": "chess player",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/RugbyPlayer",
+    "label": "rugby player",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/DartsPlayer",
+    "label": "darts player",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Person",
+    "label": "person",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Architect",
+    "label": "architect",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Globularswarm",
+    "label": "Globular Swarm",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/HandballLeague",
+    "label": "handball league",
+    "comment": "a group of sports teams that compete against each other in Handball",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Dog",
+    "label": "dog",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/PoliticalFunction",
+    "label": "political function",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/ElectricalSubstation",
+    "label": "electrical substation",
+    "comment": "Substations transform voltage from high to low, or the reverse.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Infrastructure",
+    "label": "infrastructure",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Atoll",
+    "label": "atoll",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/PersonalEvent",
+    "label": "personal event",
+    "comment": "an event that occurs in someone's personal life",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Motorcycle",
+    "label": "motorcycle",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Port",
+    "label": "Port",
+    "comment": "a location on a coast or shore containing one or more harbors where ships can dock and transfer people or cargo to or from land.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/NetballPlayer",
+    "label": "netball player",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Statistic",
+    "label": "statistic",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/ReligiousOrganisation",
+    "label": "religious organisation",
+    "comment": "Formal organisation or organised group of believers",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Prefecture",
+    "label": "prefecture",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/SpaceMission",
+    "label": "space mission",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/RailwayLine",
+    "label": "railway line",
+    "comment": "A railway line is a transport service by trains that pull passengers or freight provided by an organization. Not to be mistaken for railway track, which is the structure consisting of the rails. Wikipedia do not clearly differentiate between both, so there is one infobox describing tracks and lines.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Sound",
+    "label": "sound",
+    "comment": "An audio document intended to be listened to; equivalent to http://purl.org/dc/dcmitype/Sound",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/CyclingCompetition",
+    "label": "cycling competition",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Street",
+    "label": "street",
+    "comment": "A Street is different from a Road in as far as the infrastructure aspect is much less important here. A Street is a social and architectural ensemble much more than the connection between two geographic points.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Monastery",
+    "label": "monastery",
+    "comment": "Monastery denotes the building, or complex of buildings, comprising the domestic quarters and workplace(s) of monastics, whether monks or nuns, and whether living in community or alone (hermits). The monastery generally includes a place reserved for prayer which may be a chapel, church or temple, and may also serve as an oratory.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/RailwayTunnel",
+    "label": "railway tunnel",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/CardGame",
+    "label": "card game",
+    "comment": "come from http://en.wikipedia.org/wiki/Category:Card_games",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Senator",
+    "label": "senator",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/ChemicalElement",
+    "label": "chemical element",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Diploma",
+    "label": "diploma",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/GivenName",
+    "label": "given name",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Artery",
+    "label": "artery",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Bay",
+    "label": "bay",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/FieldHockeyLeague",
+    "label": "field hockey league",
+    "comment": "a group of sports teams that compete against each other in Field Hockey",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Archipelago",
+    "label": "archipelago",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Robot",
+    "label": "Robot",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Competition",
+    "label": "competition",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/TennisTournament",
+    "label": "tennis tournament",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Synagogue",
+    "label": "synagogue",
+    "comment": "A synagogue, sometimes spelt synagog, is a Jewish or Samaritan house of prayer.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Project",
+    "label": "project",
+    "comment": "A project is a temporary endeavor undertaken to achieve defined objectives.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/FootballLeagueSeason",
+    "label": "football league season",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Camera",
+    "label": "camera",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Judge",
+    "label": "judge",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Ship",
+    "label": "ship",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Award",
+    "label": "award",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/CelestialBody",
+    "label": "celestial body",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Cemetery",
+    "label": "cemetery",
+    "comment": "A burial place",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/FormerMunicipality",
+    "label": "one-time municipality",
+    "comment": "A municipality that has ceased to exist, and most of the time got incorporated (wholesale or partly) into another municipality",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/MartialArtist",
+    "label": "martial artist",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/HollywoodCartoon",
+    "label": "hollywood cartoon",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Earthquake",
+    "label": "earthquake",
+    "comment": "the result of a sudden release of energy in the Earth's crust that creates seismic waves",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Musical",
+    "label": "musical",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/BeachVolleyballPlayer",
+    "label": "beach volleyball player",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/NCAATeamSeason",
+    "label": "national collegiate athletic association team season",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Star",
+    "label": "star",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/InlineHockeyLeague",
+    "label": "inline hockey league",
+    "comment": "group of sports teams that compete against each other in Inline Hockey.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/EurovisionSongContestEntry",
+    "label": "Eurovision song contest entry",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Parish",
+    "label": "parish",
+    "comment": "The smallest unit of a clerical administrative body",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Manor",
+    "label": "Manor",
+    "comment": "Estate and/or (cluster of) lands that are under the jurisdiction of a feudal lord. Hence it is also the shorthand expression for the physical estate itself: a manor is a stately house in the countryside with the surrounding grounds",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/AmateurBoxer",
+    "label": "amateur boxer",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/BrownDwarf",
+    "label": "brown dwarf",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Bone",
+    "label": "bone",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Polysaccharide",
+    "label": "polysaccharide",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/City",
+    "label": "city",
+    "comment": "a relatively large and permanent settlement, particularly a large urban settlement",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Economist",
+    "label": "economist",
+    "comment": "An economist is a professional in the social science discipline of economics.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Convention",
+    "label": "convention",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/DocumentType",
+    "label": "Document Type",
+    "comment": "type of document (official, informal etc.)",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/SpeedwayRider",
+    "label": "speedway rider",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Gymnast",
+    "label": "gymnast",
+    "comment": "A gymnast is one who performs gymnastics",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/ShoppingMall",
+    "label": "shopping mall",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Journalist",
+    "label": "journalist",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Hormone",
+    "label": "Hormone",
+    "comment": "A hormone is any member of a class of signaling molecules produced by glands in multicellular organisms that are transported by the circulatory system to target distant organs to regulate physiology and behaviour.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/SportFacility",
+    "label": "sport facility",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Agent",
+    "label": "agent",
+    "comment": "Analogous to a foaf:Agent, an agent is an entity that acts. This is intended to be the super class of Person and Organisation.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Mill",
+    "label": "Mill",
+    "comment": "a unit operation designed to break a solid material into smaller pieces",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Painting",
+    "label": "Painting",
+    "comment": "Describes a painting to assign picture entries in wikipedia to artists.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/OlympicResult",
+    "label": "olympic result",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/SportsTeamMember",
+    "label": "Sports team member",
+    "comment": "A member of an athletic team.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/MilitaryUnit",
+    "label": "military unit",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/PublicService",
+    "label": "public service",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/AnimangaCharacter",
+    "label": "animanga character",
+    "comment": "Anime/Manga character",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/SoccerTournament",
+    "label": "soccer tournoment",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Disease",
+    "label": "disease",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/LiteraryGenre",
+    "label": "literary genre",
+    "comment": "Genres of literature, e.g. Satire, Gothic",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Grape",
+    "label": "grape",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/BodyOfWater",
+    "label": "body of water",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/HistoricalEvent",
+    "label": "historical event",
+    "comment": "an event that is clearly different from strictly personal events and had historical impact",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/RaceTrack",
+    "label": "race track",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/HistoricBuilding",
+    "label": "historic building",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Monument",
+    "label": "monument",
+    "comment": "A type of structure (a statue or an art object) created to commemorate a person or important event, not necessarily of a catastrophic nature.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Artist",
+    "label": "artist",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/HorseTrainer",
+    "label": "horse trainer",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Canoeist",
+    "label": "canoeist",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/GeopoliticalOrganisation",
+    "label": "geopolitical organisation",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/MouseGene",
+    "label": "MouseGene",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/GrossDomesticProductPerCapita",
+    "label": "gross domestic product per capita",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/ElectionDiagram",
+    "label": "Election Diagram",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Quote",
+    "label": "Quote",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/AmericanFootballTeam",
+    "label": "american football Team",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/StillImage",
+    "label": "still image",
+    "comment": "\u0627\u06cc\u06a9 \u0628\u0635\u0631\u06cc \u062f\u0633\u062a\u0627\u0648\u06cc\u0632 \u062c\u0633 \u06a9\u0627 \u0645\u0642\u0635\u062f \u0645\u062a\u062d\u0631\u06a9 \u06c1\u0648\u0646\u0627 \u0646\u06c1\u06cc\u06ba \u06c1\u06d2\u06d4",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/GaelicGamesPlayer",
+    "label": "Gaelic games player",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Novel",
+    "label": "novel",
+    "comment": "A book of long narrative in literary prose",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Skater",
+    "label": "skater",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Curler",
+    "label": "curler",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/GovernmentalAdministrativeRegion",
+    "label": "governmental administrative region",
+    "comment": "An administrative body governing some territorial unity, in this case a governmental administrative body",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Garden",
+    "label": "garden",
+    "comment": "A garden is a planned space, usually outdoors, set aside for the display, cultivation, and enjoyment of plants and other forms of nature. (http://en.wikipedia.org/wiki/Garden)",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/ClassicalMusicArtist",
+    "label": "classical music artist",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Eukaryote",
+    "label": "eukaryote",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Professor",
+    "label": "professor",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/VicePresident",
+    "label": "vice president",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/BaseballLeague",
+    "label": "baseball league",
+    "comment": "a group of sports teams that compete against each other in Baseball.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/HistoricalProvince",
+    "label": "Historical province",
+    "comment": "A place which used to be a province.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/EducationalInstitution",
+    "label": "educational institution",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/SpaceStation",
+    "label": "space station",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Constellation",
+    "label": "constellation",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Skier",
+    "label": "skier",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/PoliticianSpouse",
+    "label": "politician spouse",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/UndergroundJournal",
+    "label": "underground journal",
+    "comment": "An underground journal is, although over time there have always been publications forbidden by law, a phenomenon typical of countries occupied by the Germans during the Second World War. The writing in the underground press aims at stiffening a spirit of resistance against Nazi occupation. The distribution of underground journals had to be very secretive and was, therefore, very much dependant on illegal distribution circuits and the hazards of persecution by the occupant.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/PaintballLeague",
+    "label": "paintball league",
+    "comment": "a group of sports teams that compete against each other in Paintball",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/ClubMoss",
+    "label": "club moss",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/ClassicalMusicComposition",
+    "label": "classical music composition",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/HockeyClub",
+    "label": "hockey club",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Beach",
+    "label": "beach",
+    "comment": "The shore of a body of water, especially when sandy or pebbly.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/LacrosseLeague",
+    "label": "lacrosse league",
+    "comment": "a group of sports teams that compete against each other in Lacrosse.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/SerialKiller",
+    "label": "serial killer",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Identifier",
+    "label": "identifier",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/OlympicEvent",
+    "label": "olympic event",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/ArtistDiscography",
+    "label": "artist discography",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Demographics",
+    "label": "demographics",
+    "comment": "Population of a place. Uses these properties: populationTotal, year (when measured, populationYear), rank (sortOrder of this place amongst its siblings at the same level), name (areal measured by the population, eg: \"locality\", \"municipality\" or \"comitat\")",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Archbishop",
+    "label": "archbishop",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/FormulaOneRacing",
+    "label": "formula one racing",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/SportsEvent",
+    "label": "sports event",
+    "comment": "a event of competitive physical activity",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Linguist",
+    "label": "linguist",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Sculptor",
+    "label": "sculptor",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Relationship",
+    "label": "Relationship",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Pope",
+    "label": "pope",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/ChemicalCompound",
+    "label": "chemical compound",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Beer",
+    "label": "beer",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/PeriodOfArtisticStyle",
+    "label": "period of artistic style",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/OverseasDepartment",
+    "label": "overseas department",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/AustralianFootballTeam",
+    "label": "australian football Team",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Dike",
+    "label": "dike",
+    "comment": "A dike is an elongated naturally occurring ridge or artificially constructed fill or wall, which regulates water levels",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Intercommunality",
+    "label": "Intercommunality",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/StarCluster",
+    "label": "Star \u0441luster",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/NobleFamily",
+    "label": "Noble family",
+    "comment": "Family deemed to be of noble descent",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/WorldHeritageSite",
+    "label": "World Heritage Site",
+    "comment": "A UNESCO World Heritage Site is a site (such as a forest, mountain, lake, desert, monument, building, complex, or city) that is on the list that is maintained by the international World Heritage Programme administered by the UNESCO World Heritage Committee, composed of 21 state parties which are elected by their General Assembly for a four-year term. A World Heritage Site is a place of either cultural or physical significance.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Comic",
+    "label": "comic",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Ski_jumper",
+    "label": "ski jumper",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Arrondissement",
+    "label": "arrondissement",
+    "comment": "An administrative (France) or lawcourts (Netherlands) body governing a territorial unity on the intermediate level, between local and national level",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/AmericanFootballLeague",
+    "label": "american football league",
+    "comment": "A group of sports teams that compete against each other in american football.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/SportsTeam",
+    "label": "sports team",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/AustralianFootballLeague",
+    "label": "australian football league",
+    "comment": "A group of sports teams that compete against each other in australian football.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/BroadcastNetwork",
+    "label": "broadcast network",
+    "comment": "A broadcast network is an organization, such as a corporation or other association, that provides live or recorded content, such as movies, newscasts, sports, and public affairs programs for broadcast over a group of radio or television stations. (http://en.wikipedia.org/wiki/Broadcast_network - 28/03/2011)",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/NobelPrize",
+    "label": "Nobel Prize",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/HockeyTeam",
+    "label": "hockey team",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Murderer",
+    "label": "murderer",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Decoration",
+    "label": "decoration",
+    "comment": "An object, such as a medal or an order, that is awarded to honor the recipient ostentatiously.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/WrestlingEvent",
+    "label": "wrestling event",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Municipality",
+    "label": "municipality",
+    "comment": "An administrative body governing a territorial unity on the lower level, administering one or a few more settlements",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Bridge",
+    "label": "bridge",
+    "comment": "A bridge is a structure built to span physical obstacles such as a body of water, valley, or road, for the purpose of providing passage over the obstacle (http://en.wikipedia.org/wiki/Bridge).",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/District",
+    "label": "district",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Mountain",
+    "label": "mountain",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/RollerCoaster",
+    "label": "roller coaster",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/CyclingRace",
+    "label": "cycling race",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/TrackList",
+    "label": "track list",
+    "comment": "A list of music tracks, like on a CD",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Archive",
+    "label": "Archive",
+    "comment": "Collection of documents pertaining to a person or organisation.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Lock",
+    "label": "lock",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Cave",
+    "label": "cave",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/HandballTeam",
+    "label": "handball team",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Skos",
+    "label": "Concept",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Scientist",
+    "label": "scientist",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Humorist",
+    "label": "humorist",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Website",
+    "label": "website",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Lymph",
+    "label": "lymph",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/TelevisionDirector",
+    "label": "Television director",
+    "comment": "a person who directs the activities involved in making a television program.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/ResearchProject",
+    "label": "research project",
+    "comment": "A research project is a scientific investigation, usually using scientific methods, to achieve defined objectives.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Locality",
+    "label": "locality",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Animal",
+    "label": "animal",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/MedicalSpecialty",
+    "label": "medical specialty",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Continent",
+    "label": "continent",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Singer",
+    "label": "Singer",
+    "comment": "a person who sings.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/BaseballSeason",
+    "label": "baseball season",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/PoliceOfficer",
+    "label": "Police Officer",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/CricketTeam",
+    "label": "cricket team",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/MemberResistanceMovement",
+    "label": "Member of a Resistance Movement",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/MilitaryAircraft",
+    "label": "military aircraft",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Arena",
+    "label": "arena",
+    "comment": "An arena is an enclosed area, often circular or oval-shaped, designed to showcase theater, musical performances, or sporting events. (http://en.wikipedia.org/wiki/Arena)",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/SoccerLeagueSeason",
+    "label": "soccer league season",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Criminal",
+    "label": "criminal",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/DisneyCharacter",
+    "label": "disney character",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Surname",
+    "label": "surname",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Protocol",
+    "label": "Protocol",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Mammal",
+    "label": "mammal",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Medicine",
+    "label": "Medicine",
+    "comment": "The science and art of healing the human body and identifying the causes of disease",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Election",
+    "label": "Election",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/MobilePhone",
+    "label": "mobile phone",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Crater",
+    "label": "crater",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/BoxingLeague",
+    "label": "boxing league",
+    "comment": "A group of sports teams or fighters that compete against each other in Boxing",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/DistrictWaterBoard",
+    "label": "district water board",
+    "comment": "Conservancy, governmental agency dedicated to surface water management",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/RadioControlledRacingLeague",
+    "label": "radio-controlled racing league",
+    "comment": "A group of sports teams or person that compete against each other in radio-controlled racing.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Pharaoh",
+    "label": "Pharaoh",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Pretender",
+    "label": "Pretender",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Fungus",
+    "label": "fungus",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/HistoricalCountry",
+    "label": "Historical country",
+    "comment": "\u0627\u06cc\u06a9 \u0627\u06cc\u0633\u06cc \u062c\u06af\u06c1 \u062c\u0648 \u0627\u06cc\u06a9 \u0645\u0644\u06a9 \u06c1\u0648\u0627 \u06a9\u0631\u062a\u06cc \u062a\u06be\u06cc\u06d4",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Aircraft",
+    "label": "aircraft",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/List",
+    "label": "list",
+    "comment": "A general list of items.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/State",
+    "label": "state",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/FictionalCharacter",
+    "label": "fictional character",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Moss",
+    "label": "moss",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/TennisLeague",
+    "label": "tennis league",
+    "comment": "A group of sports teams or person that compete against each other in tennis.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Biomolecule",
+    "label": "Biomolecule",
+    "comment": "equivalent to http://ccdb.ucsd.edu/NIF/BIRNLex-OBO-UBO.owl#birnlex_22.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Station",
+    "label": "station",
+    "comment": "Public transport station (eg. railway station, metro station, bus station).",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/River",
+    "label": "river",
+    "comment": "a large natural stream",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Algorithm",
+    "label": "Algorithm",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Organisation",
+    "label": "organisation",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Image",
+    "label": "image",
+    "comment": "A document that contains a visual image",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/ComicsCharacter",
+    "label": "comics character",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Temple",
+    "label": "temple",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Cheese",
+    "label": "cheese",
+    "comment": "A milk product prepared for human consumption",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/HorseRider",
+    "label": "horse rider",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Place",
+    "label": "place",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/RestArea",
+    "label": "rest area",
+    "comment": "A rest area is part of a Road, meant to stop and rest. More often than not, there is a filling station",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Embryology",
+    "label": "embryology",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Unknown",
+    "label": "Unknown",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Publisher",
+    "label": "publisher",
+    "comment": "Publishing company",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/CrossCountrySkier",
+    "label": "cross-country skier",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/StormSurge",
+    "label": "storm surge",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Academic",
+    "label": "Academic Person",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/MultiVolumePublication",
+    "label": "multi volume publication",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/PlayWright",
+    "label": "Playwright",
+    "comment": "A person who writes dramatic literature or drama.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/RouteOfTransportation",
+    "label": "route of transportation",
+    "comment": "A route of transportation (thoroughfare) may refer to a public road, highway, path or trail or a route on water from one place to another for use by a variety of general traffic (http://en.wikipedia.org/wiki/Thoroughfare).",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/SportsTeamSeason",
+    "label": "sports team season",
+    "comment": "A season for a particular sports team (as opposed to the season for the entire league that the team is in)",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/FormulaOneTeam",
+    "label": "formula 1 team",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/On-SiteTransportation",
+    "label": "on-site mean of transportation",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Resume",
+    "label": "Resume",
+    "comment": "A Resume describes a persons work experience and skill set.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/ArtificialSatellite",
+    "label": "ArtificialSatellite",
+    "comment": "In the context of spaceflight, an artificial satellite is an artificial object which has been intentionally placed into orbit.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/GreenAlga",
+    "label": "green alga",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/SkiResort",
+    "label": "ski resort",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Genre",
+    "label": "genre",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/ChemicalSubstance",
+    "label": "chemical substance",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Athletics",
+    "label": "athletics",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Memorial",
+    "label": "memorial",
+    "comment": "A monument erected to commemorate a person, an event and/or group. In the case of a person, this might be a grave or tomb.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/BaseballPlayer",
+    "label": "baseball player",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Medician",
+    "label": "medician",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/RoadTunnel",
+    "label": "road tunnel",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/NaturalRegion",
+    "label": "natural region",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/NationalFootballLeagueSeason",
+    "label": "national football league season",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Zoo",
+    "label": "zoo",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/CultivatedVariety",
+    "label": "cultivar (cultivated variety)",
+    "comment": "A cultivar is a plant or grouping of plants selected for desirable characteristics that can be maintained by propagation. A plant whose origin or selection is primarily due to intentional human activity.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Castle",
+    "label": "castle",
+    "comment": "Castles often are, but need not be a military structure. They can serve for status, pleasure and hunt as well.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/VicePrimeMinister",
+    "label": "vice prime minister",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Instrument",
+    "label": "Instrument",
+    "comment": "Describes all musical instrument",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Mayor",
+    "label": "mayor",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Photographer",
+    "label": "photographer",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Species",
+    "label": "species",
+    "comment": "A category in the rating system",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Bank",
+    "label": "bank",
+    "comment": "a company which main services are banking or financial services.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/GolfCourse",
+    "label": "golf course",
+    "comment": "In a golf course, holes often carry hazards, defined as special areas to which additional rules of the game apply.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Dam",
+    "label": "dam",
+    "comment": "A dam is part of a landscape infrastructure, like waterworks (canals) or roads, much more than a building, though, of course, it has been built, too.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/TelevisionStation",
+    "label": "television station",
+    "comment": "A television station has usually one line up. For instance the television station WABC-TV (or ABC 7, Channel 7). Not to be confused with the broadcasting network ABC, which has many television stations.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/CountrySeat",
+    "label": "country estate",
+    "comment": "A country seat is a rural patch of land owned by a land owner.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Race",
+    "label": "race",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Caterer",
+    "label": "Caterer",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/PopulatedPlace",
+    "label": "populated place",
+    "comment": "As defined by the United States Geological Survey, a populated place is a place or area with clustered or scattered buildings and a permanent human population (city, settlement, town, or village) referenced with geographic coordinates (http://en.wikipedia.org/wiki/Populated_place).",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Cyclist",
+    "label": "cyclist",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/RugbyLeague",
+    "label": "rugby league",
+    "comment": "A group of sports teams that compete against each other in rugby.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/AmericanFootballCoach",
+    "label": "american football coach",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/SoccerClub",
+    "label": "soccer club",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Historian",
+    "label": "historian",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Asteroid",
+    "label": "asteroid",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Guitarist",
+    "label": "guitarist",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Weapon",
+    "label": "weapon",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Lake",
+    "label": "lake",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Lieutenant",
+    "label": "lieutenant",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Mine",
+    "label": "mine",
+    "comment": "A mine is a place where mineral resources are or were extracted",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Letter",
+    "label": "letter",
+    "comment": "A letter from the alphabet.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/TopicalConcept",
+    "label": "topical concept",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/AcademicSubject",
+    "label": "academic subject",
+    "comment": "Genres of art, e.g. Mathematics, History, Philosophy, Medicine",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Noble",
+    "label": "noble",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Lighthouse",
+    "label": "lighthouse",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/MicroRegion",
+    "label": "micro-region",
+    "comment": "A microregion is a - mainy statistical - region in Brazil, at an administrative level between a meso-region and a community",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/MemberOfParliament",
+    "label": "member of parliament",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/RouteStop",
+    "label": "route stop",
+    "comment": "designated place where vehicles stop for passengers to board or alight",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/AmericanLeader",
+    "label": "American Leader",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/WineRegion",
+    "label": "wine region",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/SolarEclipse",
+    "label": "solar eclipse",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Forest",
+    "label": "forest",
+    "comment": "A natural place more or less densely grown with trees",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Deity",
+    "label": "deity",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/RailwayStation",
+    "label": "train station",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Poet",
+    "label": "poet",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/ChristianBishop",
+    "label": "Christian Bishop",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/PoloLeague",
+    "label": "polo league",
+    "comment": "A group of sports teams that compete against each other in Polo.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/AutoRacingLeague",
+    "label": "auto racing league",
+    "comment": "a group of sports teams or individual athletes that compete against each other in auto racing",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/HistoricPlace",
+    "label": "historic place",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Depth",
+    "label": "depth",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/BritishRoyalty",
+    "label": "British royalty",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/TelevisionHost",
+    "label": "television host",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Manhua",
+    "label": "manhua",
+    "comment": "Comics originally produced in China",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/WaterTower",
+    "label": "Water tower",
+    "comment": "a construction designed to store larger quantities of water at a place of some elevation in order to keep pressure on the water provision system",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/MythologicalFigure",
+    "label": "mythological figure",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/HistoricalRegion",
+    "label": "Historical region",
+    "comment": "a place which used to be a region.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Building",
+    "label": "building",
+    "comment": "Building is defined as a Civil Engineering structure such as a house, worship center, factory etc. that has a foundation, wall, roof etc. that protect human being and their properties from direct harsh effect of weather like rain, wind, sun etc. (http://en.wikipedia.org/wiki/Building).",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Astronaut",
+    "label": "astronaut",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/MixedMartialArtsLeague",
+    "label": "mixed martial arts league",
+    "comment": "a group of sports teams that compete against each other in Mixed Martial Arts",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/MovingImage",
+    "label": "moving image",
+    "comment": "A visual document that is intended to be animated; equivalent to http://purl.org/dc/dcmitype/MovingImage",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/TermOfOffice",
+    "label": "term of office",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/JewishLeader",
+    "label": "JewishLeader",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/HistoricalAreaOfAuthority",
+    "label": "ancient area of jurisdiction of a person (feudal) or of a governmental body",
+    "comment": "Mostly for feudal forms of authority, but can also serve for historical forms of centralised authority",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/AdministrativeRegion",
+    "label": "administrative region",
+    "comment": "A PopulatedPlace under the jurisdiction of an administrative body. This body may administer either a whole region or one or more adjacent Settlements (town administration)",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Bodybuilder",
+    "label": "bodybuilder",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Single",
+    "label": "single",
+    "comment": "In music, a single or record single is a type of release, typically a recording of fewer tracks than an LP or a CD.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/SoftballLeague",
+    "label": "softball league",
+    "comment": "A group of sports teams that compete against each other in softball.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Casino",
+    "label": "casino",
+    "comment": "In modern English, a casino is a facility which houses and accommodates certain types of gambling activities.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Cartoon",
+    "label": "cartoon",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Contest",
+    "label": "contest",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Spacecraft",
+    "label": "spacecraft",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/RadioHost",
+    "label": "radio host",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/MixedMartialArtsEvent",
+    "label": "mixed martial arts event",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/VideoGame",
+    "label": "video game",
+    "comment": "A video game is an electronic game that involves interaction with a user interface to generate visual feedback on a video device.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Governor",
+    "label": "governor",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/TradeUnion",
+    "label": "trade union",
+    "comment": "A trade union or labor union is an organization of workers who have banded together to achieve common goals such as better working conditions.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/OfficeHolder",
+    "label": "office holder",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Type",
+    "label": "type",
+    "comment": "a category within a classification system",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/MilitaryStructure",
+    "label": "military structure",
+    "comment": "A military structure such as a Castle, Fortress, Wall, etc.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Document",
+    "label": "document",
+    "comment": "Any document",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/CricketLeague",
+    "label": "cricket league",
+    "comment": "a group of sports teams that compete against each other in Cricket",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/RugbyClub",
+    "label": "rugby club",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/MountainRange",
+    "label": "mountain range",
+    "comment": "a chain of mountains bordered by highlands or separated from other mountains by passes or valleys.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/AustralianRulesFootballPlayer",
+    "label": "Australian rules football player",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/BasketballPlayer",
+    "label": "basketball player",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Chancellor",
+    "label": "chancellor",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/LegalCase",
+    "label": "Legal Case",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Crustacean",
+    "label": "crustacean",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Broadcaster",
+    "label": "broadcaster",
+    "comment": "A broadcaster is an organisation responsible for the production of radio or television programs and/or their transmission. (http://en.wikipedia.org/wiki/Broadcaster - 28/03/2011)",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/MusicDirector",
+    "label": "music director",
+    "comment": "A person who is the director of an orchestra or concert band.",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  },
+  {
+    "uri": "http://dbpedia.org/ontology/Cycad",
+    "label": "cycad",
+    "comment": "",
+    "domain": null,
+    "range": null,
+    "type": "http://www.w3.org/2002/07/owl#Class"
+  }
+]
